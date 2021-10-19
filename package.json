@@ -1,0 +1,25 @@
+{
+  "name": "degrad-calculator",
+  "version": "1.0.0",
+  "description": "this package is convert deg to rad and rad to deg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SEKI-YUTA/degrad-calculator.git"
+  },
+  "keywords": [
+    "deg",
+    "rad",
+    "degrad",
+    "convert"
+  ],
+  "author": "yuta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SEKI-YUTA/degrad-calculator/issues"
+  },
+  "homepage": "https://github.com/SEKI-YUTA/degrad-calculator#readme"
+}
